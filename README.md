@@ -1,4 +1,5 @@
 # 💫 About Me:
+ff
 🔭Hi, I’m Pham Huu Hai, a passionate developer from Vietnam<br>🌱 I’m currently learning and researching about software technologies<br>🤝 I’m looking for Fullstack Web/App & Mobile App opportunities with React, React Native and Spring MVC<br>💬 Ask me about JavaScript, React, React Native, Java, Spring MVC<br>📫 How to reach me: phamhuuhai213@gmail.com<br>⚡ Fun fact: I code better during the day ☀️ and learn English at night 🌙
 
 
